@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Lokesh-Verma
+- 👀 I’m interested in Business Analytics 
+- 🌱 I’m currently learning Python 
+- 💞️ I’m looking to collaborate on live projects 
+- 📫 connect me on lokeshverma2608@gmail.com
