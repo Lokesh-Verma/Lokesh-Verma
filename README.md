@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lokesh-Verma
-- 👀 I’m interested in Business Analytics 
-- 🌱 I’m currently learning Python 
+- 👀 I’m aspiring Business Analyst
+- 🌱 I’m currently learning Python, Tableau, SQL and ML 
 - 💞️ I’m looking to collaborate on live projects 
 - 📫 connect me on lokeshverma2608@gmail.com
