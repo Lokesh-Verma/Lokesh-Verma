@@ -9,6 +9,15 @@ Senior Project Associate( Business Analyst)
 
 Graduate Engineer Trainee (Analyst)
 
+### Education: 
+**PGDM GBO**                                                  June 2020-May 2022
+
+University of Delhi
+
+**B.Tech MAE**                                                July 2014-Jun 2018
+
+Amity University
+
 ### Technical Skills: 
 Tableau, PowerBI, Advance Excel, Python, SQL, Alteryx, SAAS 
 ### Core Skills: 
