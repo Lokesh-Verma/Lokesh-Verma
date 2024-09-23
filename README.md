@@ -6,6 +6,7 @@ I am Business Analyst with more than 3 years of experience in data analytics pro
 Senior Project Associate( Business Analyst)
 
 **Micro Precision Products Private Limited**                  Oct 2018-Aug 2019
+
 Graduate Engineer Trainee (Analyst)
 
 ### Technical Skills: 
